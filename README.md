@@ -24,4 +24,4 @@ Post hoc analysis of heading data requires exporting log file output of the scri
 Notes
 
 In this submission we included the following items:
-1) script;  2) screen shots of the workflow; 3) sample files
+ 1. script;  2. screen shots of the workflow; 3. sample files
