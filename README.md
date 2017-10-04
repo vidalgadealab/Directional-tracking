@@ -5,6 +5,8 @@ Bainbridge C., Stein, W., Vidal-Gadea A.G.
 
 School of Biological Sciences, Illinois State University, Normal, IL
 
+https://doi.org/10.5281/zenodo.1002304
+
 Purpose
 
 Calculates average heading of moving animals using Spike2 software (Cambridge Electronic Design Ltd). 
