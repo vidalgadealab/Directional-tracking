@@ -1,5 +1,6 @@
 # Directional-tracking
 Animal heading calculator
+
 Bainbridge, C., Stein, W., Vidal-Gadea A.G.
 School of Biological Sciences, Illinois State University, Normal, IL
 
